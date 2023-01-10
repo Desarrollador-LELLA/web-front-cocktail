@@ -1,0 +1,118 @@
+{
+    "productos": [
+        {
+            "id": 1,
+            "nombre": "Producto 1",
+            "precio": 1500,
+            "imagen": "https://rockcontent.com/es/wp-content/uploads/sites/3/2019/02/Upselling-1024x538.png.webp"
+        },
+        {
+            "id": 2,
+            "nombre": "Producto 2",
+            "precio": 2500,
+            "imagen": "https://rockcontent.com/es/wp-content/uploads/sites/3/2019/02/Upselling-1024x538.png.webp"
+        },
+        {
+            "id": 3,
+            "nombre": "Producto 3",
+            "precio": 3500,
+            "imagen": "https://rockcontent.com/es/wp-content/uploads/sites/3/2019/02/Upselling-1024x538.png.webp"
+        },
+        {
+            "id": 4,
+            "nombre": "Producto 4",
+            "precio": 5000,
+            "imagen": "https://rockcontent.com/es/wp-content/uploads/sites/3/2019/02/Upselling-1024x538.png.webp"
+        },
+        {
+            "id": 5,
+            "nombre": "Producto 5",
+            "precio": 5660,
+            "imagen": "https://rockcontent.com/es/wp-content/uploads/sites/3/2019/02/Upselling-1024x538.png.webp"
+        },
+        {
+            "id": 6,
+            "nombre": "Producto 6",
+            "precio": 5340,
+            "imagen": "https://rockcontent.com/es/wp-content/uploads/sites/3/2019/02/Upselling-1024x538.png.webp"
+        },
+        {
+            "id": 7,
+            "nombre": "Producto 7",
+            "precio": 5230,
+            "imagen": "https://rockcontent.com/es/wp-content/uploads/sites/3/2019/02/Upselling-1024x538.png.webp"
+        },
+        {
+            "id": 8,
+            "nombre": "Producto 8",
+            "precio": 5100,
+            "imagen": "https://rockcontent.com/es/wp-content/uploads/sites/3/2019/02/Upselling-1024x538.png.webp"
+        },
+        {
+            "id": 9,
+            "nombre": "Producto 9",
+            "precio": 51200,
+            "imagen": "https://rockcontent.com/es/wp-content/uploads/sites/3/2019/02/Upselling-1024x538.png.webp"
+        },
+        {
+            "id": 10,
+            "nombre": "Producto 10",
+            "precio": 1600,
+            "imagen": "https://rockcontent.com/es/wp-content/uploads/sites/3/2019/02/Upselling-1024x538.png.webp"
+        },
+        {
+            "id": 11,
+            "nombre": "Producto 11",
+            "precio": 3400,
+            "imagen": "https://rockcontent.com/es/wp-content/uploads/sites/3/2019/02/Upselling-1024x538.png.webp"
+        },
+        {
+            "id": 12,
+            "nombre": "Producto 12",
+            "precio": 8700,
+            "imagen": "https://rockcontent.com/es/wp-content/uploads/sites/3/2019/02/Upselling-1024x538.png.webp"
+        },
+        {
+            "id": 13,
+            "nombre": "Producto 13",
+            "precio": 6700,
+            "imagen": "https://rockcontent.com/es/wp-content/uploads/sites/3/2019/02/Upselling-1024x538.png.webp"
+        },
+        {
+            "id": 14,
+            "nombre": "Producto 14",
+            "precio": 23500,
+            "imagen": "https://rockcontent.com/es/wp-content/uploads/sites/3/2019/02/Upselling-1024x538.png.webp"
+        },
+        {
+            "id": 15,
+            "nombre": "Producto 15",
+            "precio": 104300,
+            "imagen": "https://rockcontent.com/es/wp-content/uploads/sites/3/2019/02/Upselling-1024x538.png.webp"
+        },
+        {
+            "id": 16,
+            "nombre": "Producto 16",
+            "precio": 400,
+            "imagen": "https://rockcontent.com/es/wp-content/uploads/sites/3/2019/02/Upselling-1024x538.png.webp"
+        },
+        {
+            "id": 17,
+            "nombre": "Producto 17",
+            "precio": 1800,
+            "imagen": "https://rockcontent.com/es/wp-content/uploads/sites/3/2019/02/Upselling-1024x538.png.webp"
+        },
+        {
+            "id": 18,
+            "nombre": "Producto 18",
+            "precio": 38700,
+            "imagen": "https://rockcontent.com/es/wp-content/uploads/sites/3/2019/02/Upselling-1024x538.png.webp"
+        },
+        {
+            "id": 19,
+            "nombre": "Producto 19",
+            "precio": 1930,
+            "imagen": "https://rockcontent.com/es/wp-content/uploads/sites/3/2019/02/Upselling-1024x538.png.webp"
+        }
+    ]
+}
