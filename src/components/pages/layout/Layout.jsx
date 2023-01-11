@@ -1,10 +1,11 @@
 import React from 'react';
 import { Outlet } from 'react-router-dom';
+import NavBar from '../../comp/NavBar';
 
 const Layout = () => {
     return (
         <div>
-            <div>Este TEXTO representa a la nav bar la cual deve crearse como componente</div>
+            <NavBar />
             <Outlet />
         </div>
     );
