@@ -22,3 +22,12 @@ json-server db.json --port 4000
 ### link de api local
 
 http://localhost:4000/productos
+
+# Estructura
+
+base - BASE DE DATOS DE API
+src
+    -components TODOS LOS COMPONENTES
+        -comp COMPONENTES REUTILIZABLES
+        -images IMAGENES
+        -pages COMPONENTES COMPLETOS DE RUTAS
