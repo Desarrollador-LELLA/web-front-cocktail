@@ -25,9 +25,9 @@ http://localhost:4000/productos
 
 # Estructura
 
-base - BASE DE DATOS DE API
-src
-    -components TODOS LOS COMPONENTES
-        -comp COMPONENTES REUTILIZABLES
-        -images IMAGENES
-        -pages COMPONENTES COMPLETOS DE RUTAS
+-base - BASE DE DATOS DE API
+-src
+    _components TODOS LOS COMPONENTES
+        _comp COMPONENTES REUTILIZABLES
+        _images IMAGENES
+        _pages COMPONENTES COMPLETOS DE RUTAS
